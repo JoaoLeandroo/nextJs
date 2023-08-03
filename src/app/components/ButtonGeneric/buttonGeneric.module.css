@@ -1,0 +1,11 @@
+
+
+.buttonG {
+    width: 225px;
+    height: 40px;
+    background-color: gray;
+    border: none;
+    color: #000000;
+    border-radius: 6px;
+    cursor: pointer;
+}
